@@ -1,0 +1,23 @@
+{
+  "test": {
+    "username": "root",
+    "password": "rootroot",
+    "database": "admin",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "development": {
+    "username": "xcalotabrasil09",
+    "password": "Damacenas1",
+    "database": "xcalotabrasil09",
+    "host": "mysql.xcalotabrasil.com.br",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
